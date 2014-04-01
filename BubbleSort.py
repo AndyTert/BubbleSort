@@ -2,6 +2,8 @@ __author__ = 'andytertzakian'
 
 ##This project sorts a list of 5 numbers using a bubble sort.
 
+##      ***THIS IS A WORK IN PROGRESS***
+
 def bubbleSort():
 
 	a = 0
